@@ -6,7 +6,7 @@ Steps
 --
 Install the [latest version of Python](https://www.python.org/downloads/release/python-3120/)
 
-Download this repo
+Download this [repo](https://github.com/GuiGui-OfficielYT/cursorlocker-py/archive/refs/heads/main.zip)
 
 Open run.bat file or lock.pyw
 
