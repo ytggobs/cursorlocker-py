@@ -5,6 +5,9 @@ Useful if Lua is disable on your computer and you can't enable it
 Steps
 --
 Install the [latest version of Python](https://www.python.org/downloads/release/python-3120/)
+
+Download this repo
+
 Open run.bat file or lock.pyw
 
 Made with
