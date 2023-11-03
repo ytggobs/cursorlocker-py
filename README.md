@@ -2,6 +2,8 @@ Cursor Locker (Python)
 --
 Useful if Lua is disable on your computer and you can't enable it
 
+![image](https://github.com/GuiGui-OfficielYT/cursorlocker-py/assets/62442697/e657715e-1eb0-4fda-a949-20be48e1e0b1)
+
 Steps
 --
 Install the [latest version of Python](https://www.python.org/downloads/release/python-3120/)
