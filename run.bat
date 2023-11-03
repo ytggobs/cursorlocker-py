@@ -1,0 +1,2 @@
+start lock.pyw
+exit
