@@ -1,6 +1,6 @@
 Cursor Locker (Python)
 --
-Useful if Lua is disabled on your computer and you can't enable it
+Useful if Fullscreen games doesn't lock the cursor to the center
 
 ![image](https://github.com/GuiGui-OfficielYT/cursorlocker-py/assets/62442697/e657715e-1eb0-4fda-a949-20be48e1e0b1)
 
